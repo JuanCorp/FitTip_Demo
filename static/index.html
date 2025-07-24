@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>GPT Form Feedback</title>
+</head>
+<body>
+  <h2>Real-Time GPT Feedback</h2>
+  <pre id="output" style="white-space: pre-wrap;"></pre>
+
+  <script>
+    const evtSource = new EventSource("/stream-gpt");
+    evtSource.onmessage = (e) => {
+      document.getElementById("output").textContent += e.data;
+    };
+  </script>
+</body>
+</html>

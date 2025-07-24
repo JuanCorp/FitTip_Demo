@@ -1,0 +1,6 @@
+
+openai==1.97.0
+pydantic==2.10.3
+sqlmodel==0.0.24
+opencv-contrib-python==4.10.0.84
+opencv-python==4.10.0.84

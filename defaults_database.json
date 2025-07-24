@@ -1,0 +1,31 @@
+[
+    {"model":"User","data":    {
+        "email": "juan.nunez.corp@gmail.com",
+        "weight": 88,
+        "height": 182,
+        "goal": "Build Muscle",
+        "gender": "Male"
+    }
+},
+{"model":"Exercise","data":       {
+        "name": "Deadlift",
+        "category":"Weightlifting",
+        "muscle_group":"Legs",
+        "video_url":"https://storage.googleapis.com/kagglesdsdata/datasets/2192653/5141669/deadlift/deadlift_22.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20250722%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250722T164659Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=256575eb82cea4941359f2f18d6c576eb7ddccd32906cd91552750abf6156723b73e7b2cd22b366811a62f5169b67d6b41771effff04e4ba0918e2f5b6c3754a32692eff60127b80c4c3b61539b1a34d7d6a9fbc15a08676552132d08a00aea2d742ccc42a618381fe5ea999eb72510f9e93c1469dcb95b861172223e95dbf306adb150c86442e1637a65bc1b2ac719cc7a2715b0e640dec8499b022b7b0073271dc3b856d2a62bf511455a0de8a5c41a6f40764c0aa831262fa852107d70142cf5e62d7a51f71c5668564c4719670704b4e8c46f1733cee9ec5407de4b684c7579d60023e41d2e40b330968b459acdc5548450bcd39372834836cc36ea5aad5"
+    }
+},
+{"model":"Exercise","data":       {
+        "name": "Bench Press",
+        "category":"Weightlifting",
+        "muscle_group":"Chest",
+        "video_url":"https://storage.googleapis.com/kagglesdsdata/datasets/2192653/5141669/bench%20press/bench%20press_16.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20250722%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250722T164449Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=7196b016c3626e4c9d7929bf0385c19b7b8b3b328596b6058ba19bf1bd0c8d703ade0d320023737dbe2bddcdd255f51ef05fe9c8716db44f78999d62758864c7213949713f27d5dd0735b9166da28b9f651a369ec415cb2584608dc02d71672e0f16b00f17ac646426e95ee0df0c5d2d7b062bfdfa3da9ec882b6e355a31a9c797a0b7b736027bcc5cb9bd64e50da2ea094c63c2fd812fc59635fe39692b995ca53670398be81463529fddd2b35d82161eb7803dff4b0b44b936659f33663d1fa4e4fae015edb96623957a42b6d2f50a1c1a7207e3f55d9194aefe4f211d3cdb92fe381da566263f829f8414fa1d9a21f97f04520158f85740433be25f02e5a8"
+    }
+},
+{"model":"Exercise","data":       {
+        "name": "Squat",
+        "category":"Weightlifting",
+        "muscle_group":"Legs",
+        "video_url":"https://storage.googleapis.com/kagglesdsdata/datasets/2192653/5141669/squat/squat_14.mp4?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=databundle-worker-v2%40kaggle-161607.iam.gserviceaccount.com%2F20250722%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250722T164041Z&X-Goog-Expires=345600&X-Goog-SignedHeaders=host&X-Goog-Signature=5139c4b6eb90db3adc8630713b2b2c64d47df2f730ab528d3dc6318b9c9152cabf847fd1e544e4a903dd8ed1f13f1f0b6eacaad2812adfc75f24838b300e82f3324ee2908646a72833728665ca669deab200bbb7f2ebfdf04942d163aa24de19032f912a00b4d582502a534e0cf96211b0bdd4a189a8ef37bacbbe037b4ccecae856bf5669d8ad4935143c668901678b089c786e03b6bb7b420dafd90e4f3f32a025ffc29abd0fb1b10f5582e4faf2483671993da14f89f78b992fe8c645c6a05e8bdc965c4e1fb0426f43cf0c9b779096dadd2152be3c97b75d45bdb474e1c1211e0a7015a06d4546e446df956bb9bfcf17138a54a32a462d780c2c013a870d"
+    }
+}
+]
